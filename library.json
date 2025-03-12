@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Learn TypeScript",
+        "author": "Rafay Nadeem",
+        "year": 2025,
+        "genre": "Education",
+        "isRead": false
+    },
+    {
+        "title": "The Pragmatic Programmer",
+        "author": "Andrew Hunt",
+        "year": 1999,
+        "genre": "Technology",
+        "isRead": true
+    },
+    {
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "year": 2018,
+        "genre": "Self-Help",
+        "isRead": false
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "genre": "Fiction",
+        "isRead": true
+    },
+    {
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "year": 2008,
+        "genre": "Programming",
+        "isRead": true
+    },
+    {
+        "title": "Deep Work",
+        "author": "Cal Newport",
+        "year": 2016,
+        "genre": "Productivity",
+        "isRead": false
+    },
+    {
+        "title": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "year": 2011,
+        "genre": "History",
+        "isRead": true
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "year": 1988,
+        "genre": "Fiction",
+        "isRead": false
+    },
+    {
+        "title": "Introduction to Algorithms",
+        "author": "Thomas H. Cormen",
+        "year": 1990,
+        "genre": "Education",
+        "isRead": false
+    },
+    {
+        "title": "Rich Dad Poor Dad",
+        "author": "Robert Kiyosaki",
+        "year": 1997,
+        "genre": "Finance",
+        "isRead": true
+    }
+]
